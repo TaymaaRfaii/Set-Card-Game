@@ -1,10 +1,4 @@
 # Set-Card-Game
-Here's a README template for your "Set Card Game" project, focusing on concurrency and synchronization in Java.
-
----
-
-# Set Card Game
-
 This project is an implementation of the "Set" card game with a focus on **Java Concurrency** and **Synchronization**. It’s designed to help practice concurrent programming concepts while building a multiplayer card game that supports both human and non-human players. The game uses Java Threads and various synchronization mechanisms to manage game flow and ensure fair interactions among players.
 
 ## Table of Contents
